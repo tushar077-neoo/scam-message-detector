@@ -59,7 +59,7 @@ scam-detector/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/scam-detector.git
+git clone https://github.com/tushar077-neoo/scam-message-detector.git
 cd scam-detector
 ```
 
